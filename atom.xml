@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Nanakira Blog 予定地]]></title>
   <link href="http://nanakira.github.io/atom.xml" rel="self"/>
   <link href="http://nanakira.github.io/"/>
-  <updated>2014-08-31T22:45:40+09:00</updated>
+  <updated>2014-09-01T00:03:26+09:00</updated>
   <id>http://nanakira.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Nanakira]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -25,7 +25,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Test Post]]></title>
+    <title type="html"><![CDATA[Test post]]></title>
     <link href="http://nanakira.github.io/blog/2014/08/30/test-post/"/>
     <updated>2014-08-30T23:46:17+09:00</updated>
     <id>http://nanakira.github.io/blog/2014/08/30/test-post</id>
